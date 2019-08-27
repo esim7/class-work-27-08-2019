@@ -1,0 +1,11 @@
+c:\users\макишеве.corp\source\repos\GenericsLesson\GenericsLesson\bin\Debug\netcoreapp2.1\GenericsLesson.deps.json
+c:\users\макишеве.corp\source\repos\GenericsLesson\GenericsLesson\bin\Debug\netcoreapp2.1\GenericsLesson.runtimeconfig.json
+c:\users\макишеве.corp\source\repos\GenericsLesson\GenericsLesson\bin\Debug\netcoreapp2.1\GenericsLesson.runtimeconfig.dev.json
+c:\users\макишеве.corp\source\repos\GenericsLesson\GenericsLesson\bin\Debug\netcoreapp2.1\GenericsLesson.dll
+c:\users\макишеве.corp\source\repos\GenericsLesson\GenericsLesson\bin\Debug\netcoreapp2.1\GenericsLesson.pdb
+c:\users\макишеве.corp\source\repos\GenericsLesson\GenericsLesson\obj\Debug\netcoreapp2.1\GenericsLesson.csprojAssemblyReference.cache
+c:\users\макишеве.corp\source\repos\GenericsLesson\GenericsLesson\obj\Debug\netcoreapp2.1\GenericsLesson.csproj.CoreCompileInputs.cache
+c:\users\макишеве.corp\source\repos\GenericsLesson\GenericsLesson\obj\Debug\netcoreapp2.1\GenericsLesson.AssemblyInfoInputs.cache
+c:\users\макишеве.corp\source\repos\GenericsLesson\GenericsLesson\obj\Debug\netcoreapp2.1\GenericsLesson.AssemblyInfo.cs
+c:\users\макишеве.corp\source\repos\GenericsLesson\GenericsLesson\obj\Debug\netcoreapp2.1\GenericsLesson.dll
+c:\users\макишеве.corp\source\repos\GenericsLesson\GenericsLesson\obj\Debug\netcoreapp2.1\GenericsLesson.pdb
